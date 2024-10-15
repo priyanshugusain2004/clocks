@@ -1,2 +1,1 @@
-# digitalclock
-digital clock using python
+analog clock using html/css/java script
